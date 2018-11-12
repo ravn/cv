@@ -1,4 +1,3 @@
-http://github.com/ravn/cv
 
 ## Thorbjørn Ravn Andersen
 
@@ -6,9 +5,12 @@ Senior Java Developer
 
 Kastrup, Capital Region, Denmark
 
-phone: +45 60 62 03 45
+cell phone: +45 60 62 03 45
 
-email: thorbjoern@gmail.com
+email: <thorbjoern@gmail.com>
+
+CV: <https://ravn.github.io/cv/>
+
 
 ### Summary
 
