@@ -115,12 +115,12 @@ Java Developer 2003 - 2004 (2 years)
 
 Electronic Health Record system provider.
 
-Developer on the medication module EPM, which was a Swing-based Java EE application client, and FOP-based print generation. Also did performance analysis and database administration on Oracle under Solaris.
+* Developer on the medication module EPM, which was a Swing-based Java EE application client, and FOP-based print generation. Also did performance analysis and database administration on Oracle under Solaris.
 
 ### Scandiatransplant Java Developer 2001 - 2003 (3 years)
 Organ Exchange database organization for Scandinavia.
 
-Developed new JSP+Struts based web frontend on Solaris for the existing Oracle database.
+* Developed new JSP+Struts based web frontend on Solaris for the existing Oracle database.
 
 ### Stibo Systems Java Developer 2000 - 2001 (2 years)
 
@@ -131,13 +131,14 @@ Product catalogs in print, CD-ROM and on the web.
 * Automated an SGML to Oracle data publication workflow by using XML-data and the latest XSLT-tools, and optimized bulk data loading with SQLLDR, JDBC and Perl DBI.
 
 ### Unixsnedkeren Freelance Consultant 1999 - 2000 (2 years)
+
 Freelance consultant in Perl, XML, XSLT, FreeBSD, Linux and Java.
 
 ### Student programmer, various locations 1992 - 1999 (8 years)
 
 Unix system administrator at IMADA, MIP, Amrose and CPA at Odense University.
 
-Built expertise in centralizing system administration of heterogeneous systems - Solaris, Irix, Linux, Windows, NeXT, News, FreeBSD - and quality assurance in automating these procedures.
+* Built expertise in centralizing system administration of heterogeneous systems - Solaris, Irix, Linux, Windows, NeXT, News, FreeBSD - and quality assurance in automating these procedures.
 
 ## Education
 
