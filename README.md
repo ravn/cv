@@ -54,13 +54,13 @@ Senior Java Developer
 
 Worked with various aspect of digital preservation.  Most work was done as Open Source.
 
-* Ingest workflow archiving the daily Danish newspaper in our inhouse preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools
+* Ingest workflow archiving the daily Danish newspaper in our in-house preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools
 * Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. https://github.com/statsbiblioteket/newspaper-fastcgi-ticket-checker
 * As a side project, designed and created a library to alleviate the lack of local variables in Java 8 Streams. https://github.com/statsbiblioteket/streamtuples
 * Assembled newspaper edition PDF's from individual JPEG2000 images using Java and XSLT.
-* Converted existing legacy ant-based Java subversion repository to IDE- agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8. https://github.com/netarchivesuite/netarchivesuite
+* Converted existing legacy ant-based Java subversion repository to IDE-agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8. https://github.com/netarchivesuite/netarchivesuite
 * Part of Architect group where we looked at creating a git friendly CI/ CD environment where multiple branches could be integration tested in a controlled environment. Initial work was done with OpenShift.
-* Created and presented "What's new in Java 8" internally. Slides at https://github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf
+* Researched and presented "What's new in Java 8" internally. Slides at https://github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf
 * Updated existing projects to build and work with Java 9+ and jUnit 5.
 
 Workplace is a Linux shop developing in-house
