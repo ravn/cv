@@ -90,6 +90,8 @@ handling XML, image transformations and network transportation of data using a v
 
 * Co-designed and implemented a central API allowing the usage of Java applications as COBOL-components. As these usually run unattended they need to be very robust and produce high quality logs for offline debugging.
 
+* Implemented XSD schema checker filter to ensure the validity of outgoing XML.
+
 * Converted our complete Java source base to Maven to emulate our COBOL workflow, facilitate Continuous Integration and become independent of Eclipse. Latest work was on Continuous Delivery and artifact
 traceability.
 
@@ -104,7 +106,7 @@ traceability.
 
 * Introduced JSR-223 scripting to allow extending behaviour in production without having to do a full redeploy of the component.
 
-* Used Groovy to get class annotations for JAX-WS based web services.
+* Used Groovy to get class annotations for runtime defined JAX-WS based web services.
 
 * Researched and implemented JSR-330 Dependency Injection to emulate IBM i "library lists" at runtime. Used Guice, Weld and Dagger as engines.
 
