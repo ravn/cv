@@ -57,12 +57,19 @@ Senior Java Developer
 Worked with various aspect of digital preservation.  Most work was done as Open Source.
 
 * Ingest workflow archiving the daily Danish newspaper in our in-house preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 <https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools>
+
 * Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. <https://github.com/statsbiblioteket/newspaper-fastcgi-ticket-checker>
+
 * As a side project, designed and created a library to alleviate the lack of local variables in Java 8 Streams. <https://github.com/statsbiblioteket/streamtuples>
+
 * Assembled newspaper edition PDF's from individual JPEG2000 images using Java and XSLT.
+
 * Converted existing legacy ant-based Java subversion repository to IDE-agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8. <https://github.com/netarchivesuite/netarchivesuite>
+
 * Part of Architect group where we looked at creating a git friendly CI/ CD environment where multiple branches could be integration tested in a controlled environment. Initial work was done with OpenShift.
+
 * Researched and presented "What's new in Java 8" internally. Slides at <https://github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf>
+
 * Updated existing projects to build and work with Java 9+ and jUnit 5.
 
 Workplace is a Linux shop developing in-house
@@ -96,9 +103,12 @@ traceability.
 * Introduced JUnit 4 based integration tests.
 
 * Introduced JSR-223 scripting to allow extending behaviour in production without having to do a full redeploy of the component.
+
 * Used Groovy to get class annotations for JAX-WS based web services.
+
 * Researched and implemented JSR-330 Dependency Injection to emulate IBM i "library lists" at runtime. Used Guice, Weld and Dagger as engines.
-* Used Cajo to launch on remote server, but debug in local IDE.
+
+* Used the Cajo remote procedure call platform to launch on remote server, but debug in local IDE.
 
 ### Acure
 Java Developer 2003 - 2004 (2 years)
@@ -115,6 +125,8 @@ Developed new JSP+Struts based web frontend on Solaris for the existing Oracle d
 ### Stibo Systems Java Developer 2000 - 2001 (2 years)
 
 Product catalogs in print, CD-ROM and on the web.
+
+* Worked on online catalog JSP site backed by Oracle 8i.
 
 * Automated an SGML to Oracle data publication workflow by using XML-data and the latest XSLT-tools, and optimized bulk data loading with SQLLDR, JDBC and Perl DBI.
 
