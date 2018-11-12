@@ -1,6 +1,6 @@
 http://github.com/ravn/cv
 
-##Thorbjørn Ravn Andersen
+## Thorbjørn Ravn Andersen
 
 Senior Java Developer
 
@@ -10,7 +10,7 @@ phone: +45 60 62 03 45
 
 email: thorbjoern@gmail.com
 
-###Summary
+### Summary
 
 Experienced Senior Java Software Engineer with a demonstrated history of working in the libraries industry. Skilled in Java, Linux, Databases, Network communication, Technical Writing, and mentoring. Strong engineering professional with a Master's degree focused in Computer Science from Syddansk Universitet / University of Southern Denmark.
 
@@ -45,22 +45,23 @@ CVS | 3
 OpenShift | 2
 
 
-##Experience:
+## Experience:
 
 
-###Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
+### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
 
 Senior Java Developer
 
-Worked with various aspect of digital preservation:
-* Ingest workflow archiving the daily Danish newspaper in our inhouse preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 https://github.com/statsbiblioteket/digital-pligtaflevering- aviser-tools
-* Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. https://github.com/statsbiblioteket/newspaper-fastcgi-ticket- checker
+Worked with various aspect of digital preservation.  Most work was done as Open Source.
+
+* Ingest workflow archiving the daily Danish newspaper in our inhouse preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools
+* Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. https://github.com/statsbiblioteket/newspaper-fastcgi-ticket-checker
 * As a side project, designed and created a library to alleviate the lack of local variables in Java 8 Streams. https://github.com/statsbiblioteket/streamtuples
 * Assembled newspaper edition PDF's from individual JPEG2000 images using Java and XSLT.
-* Converted existing legacy ant-based Java subversion repository to IDE- agnostic Maven project tree in git located on Github with junit 4 tests and upgraded to Java 8. https://github.com/netarchivesuite/netarchivesuite
+* Converted existing legacy ant-based Java subversion repository to IDE- agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8. https://github.com/netarchivesuite/netarchivesuite
 * Part of Architect group where we looked at creating a git friendly CI/ CD environment where multiple branches could be integration tested in a controlled environment. Initial work was done with OpenShift.
-* Created and presented "What's new in Java 8" internally. Slides at https:// github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf
-* Updated existing projects to build and work with Java 9+.
+* Created and presented "What's new in Java 8" internally. Slides at https://github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf
+* Updated existing projects to build and work with Java 9+ and jUnit 5.
 
 Workplace is a Linux shop developing in-house
 Java applications with every developer 
@@ -68,7 +69,7 @@ choosing his/her own flavor.
 I have used Ubuntu from 14.04 up to now 18.04 LTS as my daily work environment with initially Eclipse and then IntelliJ Ultimate. We use VirtualBox, Vagrant and Docker to handle extra instances as needed.
 
 
-###Kewill / Four Soft Denmark / Transaxiom 2005 - 2014 
+### Kewill / Four Soft Denmark / Transaxiom 2005 - 2014 
 
 Senior Java Developer in an agile Cobol shop. 
 
@@ -97,7 +98,7 @@ traceability.
 * Researched and implemented JSR-330 Dependency Injection to emulate IBM i "library lists" at runtime. Used Guice, Weld and Dagger as engines.
 * Used Cajo to launch on remote server, but debug in local IDE.
 
-###Acure
+### Acure
 Java Developer 2003 - 2004 (2 years)
 
 Electronic Health Record system provider.
