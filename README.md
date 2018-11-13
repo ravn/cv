@@ -13,10 +13,6 @@ GitHub| <https://github.com/ravn>
 StackOverflow | <https://stackoverflow.com/users/53897/>
 
 
-### Summary
-
-Experienced Senior Java Software Engineer with a demonstrated history of working in the libraries industry. Skilled in Java, Linux, Databases, Network communication, Technical Writing, and mentoring. Strong engineering professional with a Master's degree focused in Computer Science from Syddansk Universitet / University of Southern Denmark.
-
 ### Skills:
 
 Skill | 1 to 5 (highest)
