@@ -22,14 +22,14 @@ Github | 5 | Docker  | 5
 Linux   | 5 | Unix     | 5
 Maven | 5 | Eclipse | 5 
 IntelliJ  | 5 | XML | 5
+AS/400 JVM | 5 | Test Driven Development     | 4 
 VirtualBox | 4 | Windows | 4
 XSLT    | 4 | PostgreSQL     | 4 
 Oracle 8i     | 4  | Web Services (Rest/SOAP)    | 4 
-Test Driven Development     | 4  | Perl | 4 
-JavaServer Faces | 3 | JSP | 3
+ Perl | 4  | JavaServer Faces | 3 
 Python | 3 | MySQL     | 3
 CVS | 3 | Subversion | 3
-OpenShift | 2 | |
+JSP | 3 | OpenShift | 2 
 
 
 ## Experience:
