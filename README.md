@@ -3,13 +3,14 @@
 
 Senior Java Developer
 
-Kastrup, Capital Region, Denmark
 
-cell phone: +45 60 62 03 45
-
-email: <thorbjoern@gmail.com>
-
-CV: <https://ravn.github.io/cv/>
+&#160; | &#160;
+--- | --- 
+Cell phone | +45 60 62 03 45
+Email  | <thorbjoern@gmail.com> 
+CV| <https://ravn.github.io/cv/> 
+GitHub| <https://github.com/ravn> 
+StackOverflow | <https://stackoverflow.com/users/53897/>
 
 
 ### Summary
