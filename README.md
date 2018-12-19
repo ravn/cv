@@ -34,6 +34,11 @@ JSP | 3 | OpenShift | 2
 
 ## Experience:
 
+### TDC 2018-
+
+IT-developer.
+
+Micro services based on Spring Boot running on OpenShift.
 
 ### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
 
