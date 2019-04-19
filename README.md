@@ -34,6 +34,7 @@ JSP | 3 | OpenShift | 2
 
 ## Experience:
 
+<<<<<<< HEAD
 ### TDC Group - Aarhus/Copenhagen 2018 - current
 
 Senior Java Developer
@@ -41,6 +42,13 @@ Senior Java Developer
 Working with microservices on internal OpenShift
 cluster, primarily focusing on DevOps and Best Practices. 
 
+=======
+### TDC 2018-
+
+IT-developer.
+
+Micro services based on Spring Boot running on OpenShift.
+>>>>>>> 861ad51b67233b5520b535026c1667e458bb6d78
 
 ### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
 
