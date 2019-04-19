@@ -19,7 +19,7 @@ Skill | 1 to 5 | Skill | 1 to 5
 --- | --- | --- | ---
 Java    |  5 | Git | 5
 Github | 5 | Docker  | 5
-Linux   | 5 | Unix     | 5
+Linux   | 5 | OpenShift    | 3
 Maven | 5 | Eclipse | 5 
 IntelliJ  | 5 | XML | 5
 AS/400 JVM | 5 | Test Driven Development     | 4 
@@ -29,10 +29,17 @@ Oracle 8i     | 4  | Web Services (Rest/SOAP)    | 4
  Perl | 4  | JavaServer Faces | 3 
 Python | 3 | MySQL     | 3
 CVS | 3 | Subversion | 3
-JSP | 3 | OpenShift | 2 
+JSP | 3 | OpenShift | 2     
 
 
 ## Experience:
+
+### TDC Group - Aarhus/Copenhagen 2018 - current
+
+Senior Java Developer
+
+Working with microservices on internal OpenShift
+cluster, primarily focusing on DevOps and Best Practices. 
 
 
 ### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
