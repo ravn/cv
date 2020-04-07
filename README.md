@@ -1,7 +1,7 @@
 
 ## Thorbjørn Ravn Andersen
 
-Senior Java Developer
+Senior Java Developer 
 
 
 &#160; | &#160;
@@ -22,6 +22,7 @@ Github | 5 | Docker  | 5
 Linux   | 5 | OpenShift    | 4
 Maven | 5 | Kubernetes | 5 
 IntelliJ  | 5 | XML | 5
+MarkDown  | 5 | Jira | 4
 AS/400 JVM | 5 | Test Driven Development     | 4 
 VirtualBox | 4 | Windows | 4
 Eclipse | 4 | MacOS | 4
@@ -39,9 +40,18 @@ JSP | 3 | OpenShift | 2
 
 Senior Java Developer
 
-Building Java and .NET based microservices, and devops
-build+deployment Jenkins pipeline targetting OpenShift and Kubernetes
-using gitops-based ArgoCD.
+Working as developer and devops on internally faced applications being migrated to in-house Kubernetes clusters (OpenShift/Rancher)
+
+* Wrote new microservices in Java using Spring Boot interfacing legacy applications not designed for cloud usage, including Docker image research and support.
+
+* Developed build+deploy pipelines for Jenkins on Kubernetes for "automatically build and deploy commits on new branches based on Jira issues".  First for OpenShift, then for Rancher + ArgoCD.
+
+* Migrated traditional .NET application to being built and deployed automatically, including selecting and extending Docker base images for in-house use.
+
+* Mentoring younger developers in tools and programming practices through e.g. code review in BitBucket.
+
+* Extensive documentation using Markdown in github/bitbucket.
+
 
 
 ### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
