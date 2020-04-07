@@ -30,8 +30,7 @@ XSLT    | 4 | PostgreSQL     | 4
 Oracle 8i     | 3  | Web Services (Rest/SOAP)    | 4 
 Perl | 4  | JavaServer Faces | 3 
 Python | 3 | MySQL     | 3
-CVS | 3 | Subversion | 3
-JSP | 3 | OpenShift | 2     
+CVS | 3 | JSP | 3 |
 
 
 ## Experience:
