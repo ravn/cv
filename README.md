@@ -24,13 +24,13 @@ Maven | 5 | Kubernetes | 5
 IntelliJ  | 5 | XML | 5
 MarkDown  | 5 | Jira | 4
 AS/400 JVM | 5 | Test Driven Development     | 4 
+Python | 4  | MySQL     | 3
 VirtualBox | 4 | Windows | 4
 Eclipse | 4 | MacOS | 4
-XSLT    | 4 | PostgreSQL     | 4 
+XSLT    | 4 | PostgreSQL     | 3
 Oracle 8i     | 3  | Web Services (Rest/SOAP)    | 4 
 Perl | 4  | JavaServer Faces | 3 
-Python | 3 | MySQL     | 3
-CVS | 3 | JSP | 3 |
+C# | 3 | MySQL     | 3
 
 
 ## Experience:
@@ -49,7 +49,13 @@ Working as developer and devops on internally faced applications being migrated 
 
 * Mentoring younger developers in tools and programming practices through e.g. code review in BitBucket.
 
-* Extensive documentation using Markdown in github/bitbucket.
+* Leveraged eBPF for out-of-process troubleshooting for Linux deployments.
+
+* Learned Python and C# for development work.
+
+* Maintain existing legacy applications in C# deployed with Bamboo.
+
+* Extensive documentation using Markdown in GitHub/Bitbucket.
 
 
 
