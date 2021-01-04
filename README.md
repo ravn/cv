@@ -1,7 +1,7 @@
 
 ## Thorbjørn Ravn Andersen
 
-Senior Java Developer 
+Senior Developer 
 
 
 &#160; | &#160;
