@@ -51,9 +51,11 @@ Working as developer and devops on internally faced applications being migrated 
 
 * Leveraged eBPF for out-of-process troubleshooting for Linux deployments.
 
-* Learned Python and C# for development work.
+* Learned Python and C# for development and devops work.
 
 * Maintain existing legacy applications in C# deployed with Bamboo.
+
+* Migrate existing devops pipelines to Github Actions.
 
 * Extensive documentation using Markdown in GitHub/Bitbucket.
 
