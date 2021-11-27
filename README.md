@@ -1,7 +1,8 @@
 
 ## Thorbjørn Ravn Andersen
 
-Senior Java Developer
+
+Senior Developer 
 
 
 &#160; | &#160;
@@ -17,28 +18,56 @@ StackOverflow | <https://stackoverflow.com/users/53897/>
 
 Skill | 1 to 5 | Skill | 1 to 5
 --- | --- | --- | ---
-Java    |  5 | Git | 5
+Linux   | 5 | Git | 5
 Github | 5 | Docker  | 5
-Linux   | 5 | OpenShift    | 3
+Gitlab | 4 | C# | 4
+Web Services (Rest/SOAP)    | 4 | Visual Studio | 4 |
+Java    |  5 | OpenShift    | 3
 Maven | 5 | Eclipse | 5 
 IntelliJ  | 5 | XML | 5
 AS/400 JVM | 5 | Test Driven Development     | 4 
+Python | 4 | MS SQL    | 4
 VirtualBox | 4 | Windows | 4
 XSLT    | 4 | PostgreSQL     | 4 
-Oracle 8i     | 4  | Web Services (Rest/SOAP)    | 4 
- Perl | 4  | JavaServer Faces | 3 
-Python | 3 | MySQL     | 3
-CVS | 3 | Subversion | 3
-JSP | 3 | OpenShift | 2     
 
 
 ## Experience:
 
-### TDC 2018-
+Viking Software - 2021
 
-IT-developer.
+Project employment i two phases, first converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution, and second completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
 
-Micro services based on Spring Boot running on OpenShift.
+* Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
+* Used git (command line + Gitlab) and Docker on daily basis for development.
+* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# endpoints using Entity Framework 3.1 with reversed engineered scaffolded classes from our test data docker image.
+* Implemented Gitlab CI/CD build procedures for all of our deployed artifacts.  This was several C# components, the react web frontend, the Q5 application, and the installer ISO generation. 
+* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in oldest PC's still used by customer.
+* Created and maintained SQL Server 2019 Docker image hosted on internal Gitlab used by team to develop with test data provided by customer in various forms.
+
+
+### TDC Group/Nuuday - Aarhus/Copenhagen 2018 - 2021
+
+Senior Java Developer
+
+Working as developer and devops on internally faced applications being migrated to in-house Kubernetes clusters (OpenShift/Rancher)
+
+* Wrote new microservices in Java using Spring Boot interfacing legacy applications not designed for cloud usage, including Docker image research and support.
+
+* Developed build+deploy pipelines for Jenkins on Kubernetes for "automatically build and deploy commits on new branches based on Jira issues".  First for OpenShift, then for Rancher + ArgoCD.
+
+* Migrated traditional .NET application to being built and deployed automatically, including selecting and extending Docker base images for in-house use.
+
+* Mentoring younger developers in tools and programming practices through e.g. code review in BitBucket.
+
+* Leveraged eBPF for out-of-process troubleshooting for Linux deployments.
+
+* Learned Python and C# for development and devops work.
+
+* Maintain existing legacy applications in C# deployed with Bamboo.
+
+* Migrate existing devops pipelines to Github Actions.
+
+* Extensive documentation using Markdown in GitHub/Bitbucket.
 
 ### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
 
@@ -65,7 +94,7 @@ Worked with various aspect of digital preservation.  Most work was done as Open 
 Workplace is a Linux shop developing in-house
 Java applications with every developer 
 choosing his/her own flavor. 
-I have used Ubuntu from 14.04 up to now 18.04 LTS as my daily work environment with initially Eclipse and then IntelliJ Ultimate. We use VirtualBox, Vagrant and Docker to handle extra instances as needed.
+I used Ubuntu from 14.04 up to now 18.04 LTS as my daily work environment with initially Eclipse and then IntelliJ Ultimate. We use VirtualBox, Vagrant and Docker to handle extra instances as needed.
 
 
 ### Kewill / Four Soft Denmark / Transaxiom 2005 - 2014 
