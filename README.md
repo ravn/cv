@@ -22,27 +22,30 @@ Linux   | 5 | Git | 5
 Github | 5 | Docker  | 5
 Gitlab | 4 | C# | 4
 Web Services (Rest/SOAP)    | 4 | Visual Studio | 4 |
-Java    |  5 | OpenShift    | 3
+Java    |  5 | Entity Framework   | 4
 Maven | 5 | Eclipse | 5 
 IntelliJ  | 5 | XML | 5
 AS/400 JVM | 5 | Test Driven Development     | 4 
 Python | 4 | MS SQL    | 4
 VirtualBox | 4 | Windows | 4
 XSLT    | 4 | PostgreSQL     | 4 
+Kubernetes | 3  | OpenShift | 3 
 
 
 ## Experience:
 
-Viking Software - 2021
+### Viking Software - 2021
 
 Project employment i two phases, first converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution, and second completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
 
 * Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
 * Used git (command line + Gitlab) and Docker on daily basis for development.
-* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# endpoints using Entity Framework 3.1 with reversed engineered scaffolded classes from our test data docker image.
+* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1  endpoints using Entity Framework with reversed engineered scaffolded classes from our test data docker image.
 * Implemented Gitlab CI/CD build procedures for all of our deployed artifacts.  This was several C# components, the react web frontend, the Q5 application, and the installer ISO generation. 
 * Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in oldest PC's still used by customer.
-* Created and maintained SQL Server 2019 Docker image hosted on internal Gitlab used by team to develop with test data provided by customer in various forms.
+* Created and maintained SQL Server 2019 Docker image hosted on internal Gitlab used by team to develop with test data provided by customer in various forms, including incremental changes.
+* NAT-router functionality for built-in GSM network connection.
+* Designed and implemented rsync server layout for downloading new location specific versions of the Qt5 application with a minimum of network traffic especially over GSM.
 
 
 ### TDC Group/Nuuday - Aarhus/Copenhagen 2018 - 2021
