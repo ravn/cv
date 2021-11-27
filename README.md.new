@@ -1,7 +1,7 @@
 
 ## Thorbjørn Ravn Andersen
 
-Senior Java Developer 
+Senior Java Developer
 
 
 &#160; | &#160;
@@ -19,45 +19,26 @@ Skill | 1 to 5 | Skill | 1 to 5
 --- | --- | --- | ---
 Java    |  5 | Git | 5
 Github | 5 | Docker  | 5
-Linux   | 5 | OpenShift    | 4
-Maven | 5 | Kubernetes | 5 
+Linux   | 5 | OpenShift    | 3
+Maven | 5 | Eclipse | 5 
 IntelliJ  | 5 | XML | 5
-MarkDown  | 5 | Jira | 4
 AS/400 JVM | 5 | Test Driven Development     | 4 
-Python | 4  | MySQL     | 3
 VirtualBox | 4 | Windows | 4
-Eclipse | 4 | MacOS | 4
-XSLT    | 4 | PostgreSQL     | 3
-Oracle 8i     | 3  | Web Services (Rest/SOAP)    | 4 
-Perl | 4  | JavaServer Faces | 3 
-C# | 3 | MySQL     | 3
+XSLT    | 4 | PostgreSQL     | 4 
+Oracle 8i     | 4  | Web Services (Rest/SOAP)    | 4 
+ Perl | 4  | JavaServer Faces | 3 
+Python | 3 | MySQL     | 3
+CVS | 3 | Subversion | 3
+JSP | 3 | OpenShift | 2     
 
 
 ## Experience:
 
-### TDC Group/Nuuday - Aarhus/Copenhagen 2018 - current
+### TDC 2018-
 
-Senior Java Developer
+IT-developer.
 
-Working as developer and devops on internally faced applications being migrated to in-house Kubernetes clusters (OpenShift/Rancher)
-
-* Wrote new microservices in Java using Spring Boot interfacing legacy applications not designed for cloud usage, including Docker image research and support.
-
-* Developed build+deploy pipelines for Jenkins on Kubernetes for "automatically build and deploy commits on new branches based on Jira issues".  First for OpenShift, then for Rancher + ArgoCD.
-
-* Migrated traditional .NET application to being built and deployed automatically, including selecting and extending Docker base images for in-house use.
-
-* Mentoring younger developers in tools and programming practices through e.g. code review in BitBucket.
-
-* Leveraged eBPF for out-of-process troubleshooting for Linux deployments.
-
-* Learned Python and C# for development work.
-
-* Maintain existing legacy applications in C# deployed with Bamboo.
-
-* Extensive documentation using Markdown in GitHub/Bitbucket.
-
-
+Micro services based on Spring Boot running on OpenShift.
 
 ### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
 
