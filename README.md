@@ -2,7 +2,7 @@
 ## Thorbjørn Ravn Andersen
 
 
-Senior Developer 
+Senior Developer living in central Copenhagen.
 
 
 &#160; | &#160;
@@ -12,24 +12,6 @@ Email  | <thorbjoern@gmail.com>
 CV| <https://ravn.github.io/cv/> 
 GitHub| <https://github.com/ravn> 
 StackOverflow | <https://stackoverflow.com/users/53897/>
-
-
-### Skills:
-
-Skill | 1 to 5 | Skill | 1 to 5
---- | --- | --- | ---
-Linux   | 5 | Git | 5
-Github | 5 | Docker  | 5
-Gitlab | 4 | C# | 4
-Web Services (Rest/SOAP)    | 4 | Visual Studio | 4 |
-Java    |  5 | Entity Framework   | 4
-Maven | 5 | Eclipse | 5 
-IntelliJ  | 5 | XML | 5
-AS/400 JVM | 5 | Test Driven Development     | 4 
-Python | 4 | MS SQL    | 4
-VirtualBox | 4 | Windows | 4
-XSLT    | 4 | PostgreSQL     | 4 
-Kubernetes | 3  | OpenShift | 3 
 
 
 ## Experience:
