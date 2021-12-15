@@ -2,16 +2,17 @@
 ## Thorbjørn Ravn Andersen
 
 
-Senior Developer living in central Copenhagen.
+Senior Backend Developer living in central Copenhagen.
 
 
-&#160; | &#160; | &#160;
---- | --- | --- 
-Cell phone | +45 60 62 03 45 | &#160;
-Email  | <thorbjoern@gmail.com> | &#160;
-CV| <https://ravn.github.io/cv/> | &#160;
-GitHub| <https://github.com/ravn> | &#160;
-StackOverflow | <https://stackoverflow.com/users/53897/> | Gold badge: Java, Eclipse
+&#160; | &#160; 
+--- | --- 
+Cell phone | +45 60 62 03 45 
+Email  | <thorbjoern@gmail.com> 
+CV| <https://ravn.github.io/cv/> 
+GitHub| <https://github.com/ravn> 
+StackOverflow (Java gold badge)| <https://stackoverflow.com/users/53897/> 
+
 
 
 ## Experience:
