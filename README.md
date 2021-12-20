@@ -2,7 +2,7 @@
 ## Thorbjørn Ravn Andersen
 
 
-Senior Backend Developer living in central Copenhagen.
+Senior Backend Developer who has worked with Java for 20 years, primarily on Linux-like platforms, and with C# for 3.  Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  Located in Central Copenhagen, Denmark. 
 
 
 &#160; | &#160; 
