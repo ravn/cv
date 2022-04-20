@@ -17,6 +17,16 @@ StackOverflow (Java gold badge)| <https://stackoverflow.com/users/53897/>
 
 ## Experience:
 
+### Udvikings- og Forenklingsstyrelsen - 2022
+
+Hired as Java developer with test automation experience in the DevOps office.
+
+* Reimplemented Python BDD demonstration program in Java using OpenAPI generator along own code for the purpose of reusing BDD training material.
+* Found a way to allow SonarQube checking using `dependency-check-maven` in Jenkins CICD builds without full Internet access.
+* Demoed non-intrusive introspection using eBPF of applications running on Ubuntu 21.10.
+
+
+
 ### Viking Software - 2021
 
 Project employment i two phases, first converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution, and second completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
