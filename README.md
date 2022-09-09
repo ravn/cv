@@ -19,12 +19,14 @@ StackOverflow (Java gold badge)| <https://stackoverflow.com/users/53897/>
 
 ### Udvikings- og Forenklingsstyrelsen - 2022
 
-Hired as Java developer with test automation experience in the DevOps office.
+Java developer in the DevOps office focusing on tests and CI/CD.
 
 * Reimplemented Python BDD demonstration program in Java using OpenAPI generator along own code for the purpose of reusing BDD training material.
-* Found a way to allow SonarQube checking using `dependency-check-maven` in Jenkins CICD builds without full Internet access.
-* Demoed non-intrusive introspection using eBPF of applications running on Ubuntu 21.10.
-
+* Implemented offline SonarQube checking and Cucumber testing for our CI/CD pipeline.
+* Demoed non-intrusive introspection using eBPF of Java applications on Ubuntu 21.10.
+* Demoed creation of flame graphs from Flight Recorder data adding SVG support.
+* Implemented Java-side part of release procedure automation using Jira REST API.
+* Implemented compile time generation of Java sources containing git information for the source commit with an annotation processor, simplifying builds. 
 
 
 ### Viking Software - 2021
