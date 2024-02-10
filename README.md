@@ -2,32 +2,29 @@
 ## Thorbjørn Ravn Andersen
 
 
-Senior Backend Developer who has worked with Java for 20 years, primarily on Linux-like platforms, and with C# for 3.  Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  Located in Central Copenhagen, Denmark. 
+Senior Backend Developer who has worked with Java for 20+ years, primarily on Linux-like platforms, and with C# for a few projects.  Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  Located in Central Copenhagen, Denmark. 
 
 
-&#160; | &#160; 
---- | --- 
-Cell phone | +45 60 62 03 45 
-Email  | <thorbjoern@gmail.com> 
-CV| <https://ravn.github.io/cv/> 
-GitHub| <https://github.com/ravn> 
-StackOverflow (Java gold badge)| <https://stackoverflow.com/users/53897/> 
-
-
+| &#160;        | &#160;                                   |
+|---------------|------------------------------------------|
+| Phone         | +45 60 62 03 45                          |
+| Email         | <thorbjoern@gmail.com>                   |
+| CV            | <https://ravn.github.io/cv/>             |
+| GitHub        | <https://github.com/ravn>                |
+| StackOverflow | <https://stackoverflow.com/users/53897/> |
 
 ## Experience:
 
 ### Udvikings- og Forenklingsstyrelsen - 2022
 
-Java developer in the DevOps office focusing on test, debugabillity and other automation for our Jenkins CI/CD pipeline.
+Java developer turned DevOps for Spring Boot based backends written in Java and Kotlin deployed to Kubernetes accessed from mobile apps frontends.
 
-* Helped the Appudvikling office homogenising seven different pipelines across four apps on new Jenkins Zero platform.
-* Reimplemented Python BDD demonstration program in Java using OpenAPI generator with own code for the purpose of reusing BDD training material.
-* Created prototype Java-side part of release procedure automation using Jira REST API calls.
-* Implemented offline SonarQube checking and Cucumber testing preparing for pipeline integration.
-* Demoed non-intrusive introspection using eBPF of Java applications on Ubuntu 21.10.
-* Demoed creation of flame graphs from Flight Recorder data adding data extraction for SVG support.
-* Created compile time generation of Java sources containing git information for the source commit with an annotation processor, simplifying builds. 
+* Worked on consolidating Jenkins-based pipelines across products building and deploying backends to our on-prem Rancher Kubernetes clusters.
+* Connectivity and external networking access allowing our frontends to reach the backends inside the UFST network<
+* Investigated, prototyped and demonstrated possibly interesting Linux, Java and Python based technologies internally, including eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
+* Create and maintain YAML files for Continuous Deployments.
+* Enhanced backends to provide monitoring information through Spring Boot actuators allowing backend health wallboards using Spring Boot Admin.
+* Introduced code near documentation using AsciiDoc allowing live code snippets in IDE and Confluence.
 
 
 
@@ -73,9 +70,9 @@ Working as developer and devops on internally faced applications being migrated 
 
 Senior Java Developer
 
-Worked with various aspect of digital preservation.  Most work was done as Open Source.
+Worked with various aspect of digital preservation.  Most work was done as Open Source on GitHub.
 
-* Ingest workflow archiving the daily Danish newspaper in our in-house preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 <https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools>
+* Ingest workflow archiving the daily Danish newspapers in our in-house preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 <https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools>
 
 * Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. <https://github.com/statsbiblioteket/newspaper-fastcgi-ticket-checker>
 
@@ -101,13 +98,13 @@ I used Ubuntu from 14.04 up to now 18.04 LTS as my daily work environment with i
 
 Senior Java Developer in an agile Cobol shop. 
 
-The core product is a COBOL-based Transport Management System running on the IBM i (previously AS/400) platform.  I did not write COBOL.
+The core product is a COBOL-based Transport Management System running on the IBM i (previously AS/400) platform which fully supports Java.
 
 * Researched and wrote
 components in Java for those tasks not easily done in COBOL, like
 handling XML, image transformations and network transportation of data using a variety of protocols.
 
-* Co-designed and implemented a central API allowing the usage of Java applications as COBOL-components. As these usually run unattended they need to be very robust and produce high quality logs for offline debugging.
+* Co-designed and implemented a central API allowing the usage of Java applications as COBOL-components. As these usually run unattended they need to be extremely robust and produce high quality logs for offline debugging.
 
 * Implemented XSD schema checker filter to ensure the validity of outgoing XML.
 
