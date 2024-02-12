@@ -14,12 +14,12 @@ Senior Backend Developer who has worked with Java for 20+ years, primarily on Li
 
 == Experience:
 
-=== Udvikings- og Forenklingsstyrelsen - 2022
+=== Udvikings- og Forenklingsstyrelsen - 2022-
 
 Java developer turned DevOps for Spring Boot based backends written in Java and Kotlin deployed to Kubernetes accessed from mobile apps frontends.
 
 * Worked on consolidating Jenkins-based pipelines across products building and deploying backends to our on-prem Rancher Kubernetes clusters.
-* Connectivity and external networking access allowing our frontends to reach the backends inside the UFST network&lt;
+* Connectivity and external networking access allowing our frontends to reach the backends inside the UFST network.
 * Investigated, prototyped and demonstrated multiple possibly interesting Linux, Java and Python based technologies internally. This includes eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
 * Create and maintain YAML files for Continuous Deployments.
 * Enhanced backends to provide monitoring information through Spring Boot actuators allowing backend health wallboards using Spring Boot Admin.
@@ -32,11 +32,11 @@ Project employment in two phases. First converting an existing end-user Visual B
 * Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations. It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation. This was both very technically challenging and very rewarding to do.
 * Used git (command line + Gitlab) and Docker on daily basis for development.
 * Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1 endpoints using Entity Framework with reversed engineered scaffolded classes from our test data docker image.
-* Implemented Gitlab CI/CD build procedures for all of our deployed artifacts. This was several C# components, the react web frontend, the Q5 application, and the installer ISO generation.
-* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in oldest PC's still used by customer.
+* Implemented Gitlab CI/CD build procedures for all of our deployed artifacts. This was several C# components, the React web frontend, the Qt5 application, and the installer ISO generation.
+* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in the oldest PC's still used by customer.
 * Created and maintained SQL Server 2019 Docker image hosted on internal Gitlab used by team to develop with test data provided by customer in various forms, including incremental changes.
 * NAT-router functionality for built-in GSM network connection.
-* Designed and implemented rsync server layout for downloading new location specific versions of the Qt5 application with a minimum of network traffic especially over GSM.
+* Designed and implemented rsync server layout for downloading new location specific versions of the Qt5 application with a minimum of network traffic over GSM.
 
 === TDC Group/Nuuday - Aarhus/Copenhagen 2018 - 2021
 
@@ -58,7 +58,7 @@ Working as developer and devops on internally faced applications being migrated 
 
 * Maintain existing legacy applications in C# deployed with Bamboo.
 
-* Migrate existing devops pipelines to Github Actions.
+* Migrate existing devops pipelines to GitHub Actions.
 
 * Extensive documentation using Markdown in GitHub/Bitbucket.
 
