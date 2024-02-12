@@ -21,7 +21,7 @@ Java developer turned DevOps for Spring Boot based backends written in Java and 
 
 * Worked on consolidating Jenkins-based pipelines across products building and deploying backends to our on-prem Rancher Kubernetes clusters.
 * Connectivity and external networking access allowing our frontends to reach the backends inside the UFST network<
-* Investigated, prototyped and demonstrated possibly interesting Linux, Java and Python based technologies internally, including eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
+* Investigated, prototyped and demonstrated multiple possibly interesting Linux, Java and Python based technologies internally.  This includes  eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
 * Create and maintain YAML files for Continuous Deployments.
 * Enhanced backends to provide monitoring information through Spring Boot actuators allowing backend health wallboards using Spring Boot Admin.
 * Introduced code near documentation using AsciiDoc allowing live code snippets in IDE and Confluence.
@@ -30,7 +30,7 @@ Java developer turned DevOps for Spring Boot based backends written in Java and 
 
 ### Viking Software - 2021
 
-Project employment i two phases, first converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution, and second completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
+Project employment in two phases. First converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution. Secondly completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
 
 * Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
 * Used git (command line + Gitlab) and Docker on daily basis for development.
@@ -154,9 +154,9 @@ Freelance consultant in Perl, XML, XSLT, FreeBSD, Linux and Java.
 
 ### Student programmer, various locations 1992 - 1999 (8 years)
 
-Unix system administrator at IMADA, MIP, Amrose and CPA at Odense University.
+Unix system administrator at IMADA, MIP, Amrose and Center for ProteomAnalyse at Odense University.
 
-* Built expertise in centralizing system administration of heterogeneous systems - Solaris, Irix, Linux, Windows, NeXT, News, FreeBSD - and quality assurance in automating these procedures.
+* Built expertise in centralizing and automating system administration of heterogeneous systems, including Solaris, Irix, Linux, Windows, NeXT, Sony News, and FreeBSD. 
 
 ## Education
 
