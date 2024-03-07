@@ -2,13 +2,13 @@
 ## Thorbjørn Ravn Andersen
 
 
-Senior Backend Developer who has worked with Java for 20+ years, primarily on Linux-like platforms, and with C# for a few projects.  Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  Located in Central Copenhagen, Denmark. 
+Senior Backend Developer who has worked with Java for 20+ years, primarily on Linux-like platforms, and with C# for a few projects.  Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  Various databases mostly PostgreSQL, but also h2, SQL Server (dockerized with test data), MySQL, DB2/400 and Oracle 8i.  Located in Central Copenhagen, Denmark. 
 
 
 | &#160;        | &#160;                                   |
 |---------------|------------------------------------------|
 | Phone         | +45 60 62 03 45                          |
-| Email         | <thorbjoern@gmail.com>                   |
+| Email         | [tra@ravnand.dk](mailto:tra@ravnand.dk)  |
 | CV            | <https://ravn.github.io/cv/>             |
 | GitHub        | <https://github.com/ravn>                |
 | StackOverflow | <https://stackoverflow.com/users/53897/> |
