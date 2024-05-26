@@ -1,9 +1,9 @@
-<table>
+<table style="width: 100%; border: none;">
 <tr>
 <td></td>
 <td><h2>Thorbjørn Ravn Andersen</h2></td>
 </tr><tr>
-<td style="vertical-align: top;"><img src="gr/IMG_5640.jpeg" alt="tra@ravnand.dk"/></td>
+<td style="vertical-align: top;" valign="top"><img src="gr/IMG_5640.jpeg" alt="tra@ravnand.dk"/></td>
 <td style="vertical-align: top;">
 
 
