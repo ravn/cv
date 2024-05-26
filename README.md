@@ -1,9 +1,6 @@
-
-// Image
-
 <table>
 <tr>
-<td><img src="gr/IMG_5640.jpeg" width="1367" height="1367"/></td>
+<td><img src="gr/IMG_5640.jpeg"/></td>
 <td>
 
 ## Thorbjørn Ravn Andersen
