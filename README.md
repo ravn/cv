@@ -21,12 +21,13 @@ Senior Backend Developer who has worked with Java for 20+ years, primarily on Li
 
 Java developer turned DevOps for Spring Boot based backends written in Java and Kotlin deployed to Kubernetes accessed from mobile apps frontends.
 
+* Migration to GitOps-based deployments.
 * Worked on consolidating Jenkins-based pipelines across products building and deploying backends to our on-prem Rancher Kubernetes clusters.
 * Connectivity and external networking access allowing our frontends to reach the backends inside the UFST network.
-* Investigated, prototyped and demonstrated multiple possibly interesting Linux, Java and Python based technologies internally.  This includes  eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
+* Prototyped multiple possibly interesting Linux, Java and Python based technologies.  This includes  eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
 * Create and maintain YAML files for Continuous Deployments.
 * Enhanced backends to provide monitoring information through Spring Boot actuators allowing backend health wallboards using Spring Boot Admin.
-* Introduced code near documentation using AsciiDoc allowing live code snippets in IDE and Confluence.
+* Introduced "code near"-documentation using AsciiDoc allowing live code snippets in IDE and Confluence.
 
 
 
@@ -34,6 +35,7 @@ Java developer turned DevOps for Spring Boot based backends written in Java and 
 
 Project employment in two phases. First converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution. Secondly completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
 
+// Three subjects, project 1, project 2, evt 
 * Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
 * Used git (command line + Gitlab) and Docker on daily basis for development.
 * Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1  endpoints using Entity Framework with reversed engineered scaffolded classes from our test data docker image.
@@ -50,6 +52,8 @@ Project employment in two phases. First converting an existing end-user Visual B
 Senior Java Developer
 
 Working as developer and devops on internally faced applications being migrated to in-house Kubernetes clusters (OpenShift/Rancher)
+
+// To emner? Java + migration
 
 * Wrote new microservices in Java using Spring Boot interfacing legacy applications not designed for cloud usage, including Docker image research and support.
 
@@ -69,32 +73,25 @@ Working as developer and devops on internally faced applications being migrated 
 
 * Extensive documentation using Markdown in GitHub/Bitbucket.
 
-### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
+### Det Kgl. Bibliotek, 2014 - 2018 
 
-Senior Java Developer
+Senior Java Developer, using Ubuntu Linux.
 
 Worked with various aspect of digital preservation.  Most work was done as Open Source on GitHub.
 
-* Ingest workflow archiving the daily Danish newspapers in our in-house preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 <https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools>
+* Ingest workflow archiving the daily Danish newspapers in our in-house preservation system.
 
-* Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. <https://github.com/statsbiblioteket/newspaper-fastcgi-ticket-checker>
+* Implemented protection mechanism as a maintainable high performance Apache Perl 5 FastCGI access checker protecting individual assets. 
 
-* As a side project, designed and created a library to alleviate the lack of local variables in Java 8 Streams. <https://github.com/statsbiblioteket/streamtuples>
+* Designed and created a library to alleviate the lack of local variables in Java 8 Streams. 
 
 * Assembled newspaper edition PDF's from individual JPEG2000 images using Java and XSLT.
 
-* Converted existing legacy ant-based Java subversion repository to IDE-agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8. <https://github.com/netarchivesuite/netarchivesuite>
+* Converted existing legacy Ant-based Java subversion repository to IDE-agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8.
 
-* Part of Architect group where we looked at creating a git friendly CI/ CD environment where multiple branches could be integration tested in a controlled environment. Initial work was done with OpenShift.
-
-* Researched and presented "What's new in Java 8" internally. Slides at <https://github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf>
+* Researched and presented "What's new in Java 8" internally. 
 
 * Updated existing projects to build and work with Java 9+ and jUnit 5.
-
-Workplace is a Linux shop developing in-house
-Java applications with every developer 
-choosing his/her own flavor. 
-I used Ubuntu from 14.04 up to now 18.04 LTS as my daily work environment with initially Eclipse and then IntelliJ Ultimate. We use VirtualBox, Vagrant and Docker to handle extra instances as needed.
 
 
 ### Kewill / Four Soft Denmark / Transaxiom 2005 - 2014 
