@@ -1,4 +1,11 @@
 
+// Image
+
+<table>
+<tr>
+<td><img src="gr/IMG_5640.jpeg" width="1367" height="1367"/></td>
+<td>
+
 ## Thorbjørn Ravn Andersen
 
 
@@ -13,34 +20,46 @@ Senior Backend Developer who has worked with Java for 20+ years, primarily on Li
 | GitHub        | <https://github.com/ravn>                |
 | StackOverflow | <https://stackoverflow.com/users/53897/> |
 
-## Experience:
+</td>
+</tr>
+</table>
+
+## Professional experience:
 
 ### Udvikings- og Forenklingsstyrelsen - 2022-present
 
 Java developer turned DevOps for Spring Boot based backends written in Java and Kotlin deployed to Kubernetes accessed from mobile apps frontends.
 
+* Migration to GitOps-based deployments.
 * Worked on consolidating Jenkins-based pipelines across products building and deploying backends to our on-prem Rancher Kubernetes clusters.
 * Connectivity and external networking access allowing our frontends to reach the backends inside the UFST network.
-* Investigated, prototyped and demonstrated multiple possibly interesting Linux, Java and Python based technologies internally.  This includes  eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
+* Prototyped multiple possibly interesting Linux, Java and Python based technologies.  This includes  eBPF, OpenAPI, SonarQube, Cucumber, Flight Recorder Fire Graphs and Jira REST API.
 * Create and maintain YAML files for Continuous Deployments.
 * Enhanced backends to provide monitoring information through Spring Boot actuators allowing backend health wallboards using Spring Boot Admin.
-* Introduced code near documentation using AsciiDoc allowing live code snippets in IDE and Confluence.
+* Introduced "code near"-documentation using AsciiDoc allowing live code snippets in IDE and Confluence.
 
 
 
 ### Viking Software - 2021
 
-Project employment in two phases. First converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution. Secondly completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
+Project employment in two phase upgrading the complete Parking solution software solution for a client.
 
-* Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
-* Used git (command line + Gitlab) and Docker on daily basis for development.
-* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1  endpoints using Entity Framework with reversed engineered scaffolded classes from our test data docker image.
-* Implemented Gitlab CI/CD build procedures for all of our deployed artifacts. This was several C# components, the React web frontend, the Qt5 application, and the installer ISO generation.
-* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in the oldest PC's still used by customer.
+
+Phase 1 - Converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution where I was responsible for the C# backend.
+
+* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1 endpoints using Entity Framework 6 with reversed engineered scaffolded classes from our test data docker image.
+* Implemented Gitlab CI/CD build procedures for complete solution.
 * Created and maintained SQL Server 2019 Docker image hosted on internal Gitlab used by team to develop with test data provided by customer in various forms, including incremental changes.
+
+
+
+Phase 2 - Completely replace application and operating system on existing customer devices with a Qt5 application running on Alpine Linux 3.14, where I was resposible for the Linux installation.
+
+* Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a requirement that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
+* Implemented Gitlab CI/CD build procedures for the complete installation ISO image ready to flash to USB.
+* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in the oldest PC's still used by customer as they did not support the full Pentium-family instruction set.
 * NAT-router functionality for built-in GSM network connection.
 * Designed and implemented rsync server layout for downloading new location specific versions of the Qt5 application with a minimum of network traffic over GSM.
-
 
 
 ### TDC Group/Nuuday - Aarhus/Copenhagen 2018 - 2021
@@ -67,32 +86,25 @@ Working as developer and devops on internally faced applications being migrated 
 
 * Extensive documentation using Markdown in GitHub/Bitbucket.
 
-### Statsbiblioteket / Det Kgl. Bibliotek - Aarhus 2014 - 2018 
+### Det Kgl. Bibliotek, 2014 - 2018 
 
-Senior Java Developer
+Senior Java Developer, using Ubuntu Linux.
 
 Worked with various aspect of digital preservation.  Most work was done as Open Source on GitHub.
 
-* Ingest workflow archiving the daily Danish newspapers in our in-house preservation system. Emphasis has been on using Streams to make processing simpler, and dependency injection of configuration key-value strings using Dagger 2 <https://github.com/statsbiblioteket/digital-pligtaflevering-aviser-tools>
+* Ingest workflow archiving the daily Danish newspapers in our in-house preservation system.
 
-* Reimplemented existing protection mechanism written in Clojure in Perl 5 as a maintainable high performance Apache FastCGI access checker protecting individual assets. <https://github.com/statsbiblioteket/newspaper-fastcgi-ticket-checker>
+* Implemented protection mechanism as a maintainable high performance Apache Perl 5 FastCGI access checker protecting individual assets. 
 
-* As a side project, designed and created a library to alleviate the lack of local variables in Java 8 Streams. <https://github.com/statsbiblioteket/streamtuples>
+* Designed and created a library to alleviate the lack of local variables in Java 8 Streams. 
 
 * Assembled newspaper edition PDF's from individual JPEG2000 images using Java and XSLT.
 
-* Converted existing legacy ant-based Java subversion repository to IDE-agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8. <https://github.com/netarchivesuite/netarchivesuite>
+* Converted existing legacy Ant-based Java subversion repository to IDE-agnostic Maven project tree in git located on Github with jUnit 4 tests and upgraded to Java 8.
 
-* Part of Architect group where we looked at creating a git friendly CI/ CD environment where multiple branches could be integration tested in a controlled environment. Initial work was done with OpenShift.
-
-* Researched and presented "What's new in Java 8" internally. Slides at <https://github.com/ravn/java8-presentation/raw/master/java-8-at-SB-2016-02-26.pdf>
+* Researched and presented "What's new in Java 8" internally. 
 
 * Updated existing projects to build and work with Java 9+ and jUnit 5.
-
-Workplace is a Linux shop developing in-house
-Java applications with every developer 
-choosing his/her own flavor. 
-I used Ubuntu from 14.04 up to now 18.04 LTS as my daily work environment with initially Eclipse and then IntelliJ Ultimate. We use VirtualBox, Vagrant and Docker to handle extra instances as needed.
 
 
 ### Kewill / Four Soft Denmark / Transaxiom 2005 - 2014 
@@ -103,14 +115,13 @@ The core product is a COBOL-based Transport Management System running on the IBM
 
 * Researched and wrote
 components in Java for those tasks not easily done in COBOL, like
-handling XML, image transformations and network transportation of data using a variety of protocols.
+normalizing and verifying XML, image transformations and network transportation of data using a variety of protocols.
 
 * Co-designed and implemented a central API allowing the usage of Java applications as COBOL-components. As these usually run unattended they need to be extremely robust and produce high quality logs for offline debugging.
 
 * Implemented XSD schema checker filter to ensure the validity of outgoing XML.
 
-* Converted our complete Java source base to Maven to emulate our COBOL workflow, facilitate Continuous Integration and become independent of Eclipse. Latest work was on Continuous Delivery and artifact
-traceability.
+* Converted our complete Java source base to Maven to emulate our COBOL workflow, facilitate Continuous Integration and become independent of Eclipse. 
 
 * Introduced Test Driven Development to document and clarify
  functionality of own code and third party jars.
@@ -130,18 +141,19 @@ traceability.
 * Used the Cajo remote procedure call platform to launch on remote server, but debug in local IDE.
 
 ### Acure
-Java Developer 2003 - 2004 (2 years)
+Java Developer 2003 - 2004 
 
 Electronic Health Record system provider.
 
-* Developer on the medication module EPM, which was a Swing-based Java EE application client, and FOP-based print generation. Also did performance analysis and database administration on Oracle under Solaris.
+* Developer on the medication module EPM, which was a Swing-based Java EE application client, and FOP-based print generation. 
+* Performance analysis and database administration on Oracle under Solaris.
 
-### Scandiatransplant Java Developer 2001 - 2003 (3 years)
+### Scandiatransplant - Java Developer 2001 - 2003 
 Organ Exchange database organization for Scandinavia.
 
 * Developed new JSP+Struts based web frontend on Solaris for the existing Oracle database.
 
-### Stibo Systems Java Developer 2000 - 2001 (2 years)
+### Stibo Systems - Java Developer 2000 - 2001 
 
 Product catalogs in print, CD-ROM and on the web.
 
@@ -149,16 +161,20 @@ Product catalogs in print, CD-ROM and on the web.
 
 * Automated an SGML to Oracle data publication workflow by using XML-data and the latest XSLT-tools, and optimized bulk data loading with SQLLDR, JDBC and Perl DBI.
 
-### Unixsnedkeren Freelance Consultant 1999 - 2000 (2 years)
-
-Freelance consultant in Perl, XML, XSLT, FreeBSD, Linux and Java.
-
-### Student programmer, various locations 1992 - 1999 (8 years)
+### Student programmer 1992 - 1999 
 
 Unix system administrator at IMADA, MIP, Amrose and Center for ProteomAnalyse at Odense University.
 
-* Built expertise in centralizing and automating system administration of heterogeneous systems, including Solaris, Irix, Linux, Windows, NeXT, Sony News, and FreeBSD. 
+* Centralizing and automating system administration of heterogeneous systems, including Solaris, Irix, Linux, Windows, NeXT, Sony News, and FreeBSD. 
 
 ## Education
 
-Syddansk Universitet / University of Southern Denmark Master's degree, Computer Science · (1987 - 2000)
+University of Southern Denmark:
+* Master in Computer Science - 2000
+
+## Interests
+
+* Amateur photographer - active in "Downstairs" photography club.  
+* Volunteer for Mensa in Denmark. 
+* Recording and converting videos with Danish subtitles from various sources to modern formats.
+* Danish 8-bit computing at Dansk Datahistorisk Forening, currently looking into writing new software in Rust.
