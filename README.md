@@ -1,12 +1,21 @@
-<table border="0">
+<table>
 <tr>
-<td style="vertical-align: top;"><img src="gr/IMG_5640.jpeg"/></td>
+<td></td>
+<td><h2>Thorbjørn Ravn Andersen</h2></td>
+</tr><tr>
+<td style="vertical-align: top;"><img src="gr/IMG_5640.jpeg" alt="tra@ravnand.dk"/></td>
 <td style="vertical-align: top;">
 
-<h2>Thorbjørn Ravn Andersen</h2>
 
 
-Senior Backend Developer who has worked with Java for 20+ years, primarily on Linux-like platforms, and with C# for a few projects.  Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  Various databases mostly PostgreSQL, but also h2, SQL Server (dockerized with test data), MySQL, DB2/400 and Oracle 8i.  Located in Central Copenhagen, Denmark. 
+
+Senior Backend Developer who has worked with Java for 20+ years, primarily on Linux-like platforms, and with C# for a few projects.  
+
+Continuous Integration for 12 years expanding into Docker for the last 5 years, and Continuous Deployment and cloud technologies for the last 2.  
+
+Various databases mostly PostgreSQL, but also h2, SQL Server (dockerized with test data), MySQL, DB2/400 and Oracle 8i.  
+
+Located in Central Copenhagen, Denmark. 
 
 <table>
 <tr><td>Phone</td><td>+45 60 62 03 45</td></tr>
