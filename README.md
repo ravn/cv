@@ -1,6 +1,11 @@
 
 // Image
 
+<table>
+<tr>
+<td><img src="gr/IMG_5640.jpeg" width="1367" height="1367"/></td>
+<td>
+
 ## Thorbjørn Ravn Andersen
 
 
@@ -14,6 +19,10 @@ Senior Backend Developer who has worked with Java for 20+ years, primarily on Li
 | CV            | <https://ravn.github.io/cv/>             |
 | GitHub        | <https://github.com/ravn>                |
 | StackOverflow | <https://stackoverflow.com/users/53897/> |
+
+</td>
+</tr>
+</table>
 
 ## Professional experience:
 
@@ -33,18 +42,24 @@ Java developer turned DevOps for Spring Boot based backends written in Java and 
 
 ### Viking Software - 2021
 
-Project employment in two phases. First converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution. Secondly completely replacing application and operating system on existing customer devices with a Qt5 application running on Alpine Linux.  I was responsible for the C# backend and the Linux installer in the two phases.
+Project employment in two phase upgrading the complete Parking solution software solution for a client.
 
-// Three subjects, project 1, project 2, evt 
-* Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a goal that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
-* Used git (command line + Gitlab) and Docker on daily basis for development.
-* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1  endpoints using Entity Framework with reversed engineered scaffolded classes from our test data docker image.
-* Implemented Gitlab CI/CD build procedures for all of our deployed artifacts. This was several C# components, the React web frontend, the Qt5 application, and the installer ISO generation.
-* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in the oldest PC's still used by customer.
+
+Phase 1 - Converting an existing end-user Visual Basic application talking to MS SQL to a REST-based web solution where I was responsible for the C# backend.
+
+* Reimplemented all existing customer reports data extraction written in SQL inside Visual Basic using multiple databases as C# .NET 3.1 endpoints using Entity Framework 6 with reversed engineered scaffolded classes from our test data docker image.
+* Implemented Gitlab CI/CD build procedures for complete solution.
 * Created and maintained SQL Server 2019 Docker image hosted on internal Gitlab used by team to develop with test data provided by customer in various forms, including incremental changes.
+
+
+
+Phase 2 - Completely replace application and operating system on existing customer devices with a Qt5 application running on Alpine Linux 3.14, where I was resposible for the Linux installation.
+
+* Created single fully automated Alpine Linux installation ISO image covering all four types of customer PC hardware and network configurations.  It was a requirement that the technician doing the installations in the field should not have to do anything requiring a keyboard during the installation.  This was both very technically challenging and very rewarding to do. 
+* Implemented Gitlab CI/CD build procedures for the complete installation ISO image ready to flash to USB.
+* Rebuilt Qt5 Alpine packages used by our Qt5 application to support instruction set in the oldest PC's still used by customer as they did not support the full Pentium-family instruction set.
 * NAT-router functionality for built-in GSM network connection.
 * Designed and implemented rsync server layout for downloading new location specific versions of the Qt5 application with a minimum of network traffic over GSM.
-
 
 
 ### TDC Group/Nuuday - Aarhus/Copenhagen 2018 - 2021
@@ -52,8 +67,6 @@ Project employment in two phases. First converting an existing end-user Visual B
 Senior Java Developer
 
 Working as developer and devops on internally faced applications being migrated to in-house Kubernetes clusters (OpenShift/Rancher)
-
-// To emner? Java + migration
 
 * Wrote new microservices in Java using Spring Boot interfacing legacy applications not designed for cloud usage, including Docker image research and support.
 
@@ -100,17 +113,15 @@ Senior Java Developer in an agile Cobol shop.
 
 The core product is a COBOL-based Transport Management System running on the IBM i (previously AS/400) platform which fully supports Java.
 
-// Grupper i tre/fire 
 * Researched and wrote
 components in Java for those tasks not easily done in COBOL, like
-handling XML, image transformations and network transportation of data using a variety of protocols.
+normalizing and verifying XML, image transformations and network transportation of data using a variety of protocols.
 
 * Co-designed and implemented a central API allowing the usage of Java applications as COBOL-components. As these usually run unattended they need to be extremely robust and produce high quality logs for offline debugging.
 
 * Implemented XSD schema checker filter to ensure the validity of outgoing XML.
 
-* Converted our complete Java source base to Maven to emulate our COBOL workflow, facilitate Continuous Integration and become independent of Eclipse. Latest work was on Continuous Delivery and artifact
-traceability.
+* Converted our complete Java source base to Maven to emulate our COBOL workflow, facilitate Continuous Integration and become independent of Eclipse. 
 
 * Introduced Test Driven Development to document and clarify
  functionality of own code and third party jars.
@@ -160,3 +171,10 @@ Unix system administrator at IMADA, MIP, Amrose and Center for ProteomAnalyse at
 
 University of Southern Denmark:
 * Master in Computer Science - 2000
+
+## Interests
+
+* Amateur photographer - active in "Downstairs" photography club.  
+* Volunteer for Mensa in Denmark. 
+* Recording and converting videos with Danish subtitles from various sources to modern formats.
+* Danish 8-bit computing at Dansk Datahistorisk Forening, currently looking into writing new software in Rust.
