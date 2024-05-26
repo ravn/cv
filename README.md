@@ -1,4 +1,6 @@
 
+// Image
+
 ## Thorbjørn Ravn Andersen
 
 
@@ -13,7 +15,7 @@ Senior Backend Developer who has worked with Java for 20+ years, primarily on Li
 | GitHub        | <https://github.com/ravn>                |
 | StackOverflow | <https://stackoverflow.com/users/53897/> |
 
-## Experience:
+## Professional experience:
 
 ### Udvikings- og Forenklingsstyrelsen - 2022-present
 
@@ -101,6 +103,7 @@ Senior Java Developer in an agile Cobol shop.
 
 The core product is a COBOL-based Transport Management System running on the IBM i (previously AS/400) platform which fully supports Java.
 
+// Grupper i tre/fire 
 * Researched and wrote
 components in Java for those tasks not easily done in COBOL, like
 handling XML, image transformations and network transportation of data using a variety of protocols.
@@ -130,18 +133,19 @@ traceability.
 * Used the Cajo remote procedure call platform to launch on remote server, but debug in local IDE.
 
 ### Acure
-Java Developer 2003 - 2004 (2 years)
+Java Developer 2003 - 2004 
 
 Electronic Health Record system provider.
 
-* Developer on the medication module EPM, which was a Swing-based Java EE application client, and FOP-based print generation. Also did performance analysis and database administration on Oracle under Solaris.
+* Developer on the medication module EPM, which was a Swing-based Java EE application client, and FOP-based print generation. 
+* Performance analysis and database administration on Oracle under Solaris.
 
-### Scandiatransplant Java Developer 2001 - 2003 (3 years)
+### Scandiatransplant - Java Developer 2001 - 2003 
 Organ Exchange database organization for Scandinavia.
 
 * Developed new JSP+Struts based web frontend on Solaris for the existing Oracle database.
 
-### Stibo Systems Java Developer 2000 - 2001 (2 years)
+### Stibo Systems - Java Developer 2000 - 2001 
 
 Product catalogs in print, CD-ROM and on the web.
 
@@ -149,16 +153,13 @@ Product catalogs in print, CD-ROM and on the web.
 
 * Automated an SGML to Oracle data publication workflow by using XML-data and the latest XSLT-tools, and optimized bulk data loading with SQLLDR, JDBC and Perl DBI.
 
-### Unixsnedkeren Freelance Consultant 1999 - 2000 (2 years)
-
-Freelance consultant in Perl, XML, XSLT, FreeBSD, Linux and Java.
-
-### Student programmer, various locations 1992 - 1999 (8 years)
+### Student programmer 1992 - 1999 
 
 Unix system administrator at IMADA, MIP, Amrose and Center for ProteomAnalyse at Odense University.
 
-* Built expertise in centralizing and automating system administration of heterogeneous systems, including Solaris, Irix, Linux, Windows, NeXT, Sony News, and FreeBSD. 
+* Centralizing and automating system administration of heterogeneous systems, including Solaris, Irix, Linux, Windows, NeXT, Sony News, and FreeBSD. 
 
 ## Education
 
-Syddansk Universitet / University of Southern Denmark Master's degree, Computer Science · (1987 - 2000)
+University of Southern Denmark:
+* Master in Computer Science - 2000
