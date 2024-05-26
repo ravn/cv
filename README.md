@@ -179,4 +179,4 @@ University of Southern Denmark:
 * Amateur photographer - active in "Downstairs" photography club.  
 * Volunteer for Mensa in Denmark. 
 * Recording and converting videos with Danish subtitles from various sources to modern formats.
-* Danish 8-bit computing at Dansk Datahistorisk Forening, currently looking into writing new software in Rust.
+* 8-bit computing at Dansk Datahistorisk Forening, currently looking into writing new software in Rust.
