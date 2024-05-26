@@ -1,7 +1,7 @@
 <table border="0">
 <tr>
-<td align="top"><img src="gr/IMG_5640.jpeg"/></td>
-<td>
+<td style="vertical-align: top;"><img src="gr/IMG_5640.jpeg"/></td>
+<td style="vertical-align: top;">
 
 <h2>Thorbjørn Ravn Andersen</h2>
 
