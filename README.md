@@ -28,7 +28,14 @@ Living in Central Copenhagen, Denmark.
 
 ## Professional experience:
 
-### Udvikings- og Forenklingsstyrelsen - 2022-present
+### BaneDanmark, 2024-present
+
+IT infra structure specialist in Den fælles trafikinformation/Common Traffic
+Information understanding how data flows between the various IT systems feeding
+our information screens, various apps and collaborators.
+ 
+
+### Udvikings- og Forenklingsstyrelsen - 2022-2024
 
 Java developer turned DevOps for Spring Boot based backends written in Java and Kotlin deployed to Kubernetes accessed from mobile apps frontends.
 
